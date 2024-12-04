@@ -1,18 +1,16 @@
 # Machine Learning & Data Mining Algorithms
 
-Testing out Machine Learning and Data Mining algorithms has been an exciting journey in helping me understand data and uncover meaningful insights. As a learner, I’ve been exploring different algorithms and models, and this repository is a collection of my personal projects and experiments.
+Testing out Machine Learning and Data Mining algorithms has been an exciting journey in helping me understand data. As a learner, I’ve been exploring different algorithms and models, and this repository is a collection of my personal projects and experiments.
 
 ## Projects Included:
-This repository contains various projects that cover a range of topics, including:
-
-- **Data Preprocessing**: Cleaning and preparing data for analysis.
-- **Classification Algorithms**: Implementing algorithms like decision trees, k-NN, and logistic regression.
-- **Clustering Algorithms**: Exploring unsupervised learning with algorithms like k-means and DBSCAN.
-- **Regression Models**: Working with linear and non-linear regression models.
-- **Evaluation Metrics**: Learning how to assess the performance of different models.
+This repository contains projects that cover a range of topics, including:
+- Data Preprocessing
+- Classification Algorithms 
+- Regression Models
+- Evaluation Metrics
 
 ## Languages and Tools:
-Most of the code is written in **Python** and **Java**, but I’ve also included some other languages and libraries where applicable. Some of the common libraries used include:
+Most of the code is written in **Python**, but I’ve also included some other languages and libraries where applicable. Some of the common libraries used include:
 
 - **Scikit-learn** for machine learning algorithms.
 - **Pandas** and **NumPy** for data manipulation.
